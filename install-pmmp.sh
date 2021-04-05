@@ -31,6 +31,8 @@ echo "Installing libtool-bin"
 apt install libtool-bin -y
 echo "Done! installing pmmp"
 cd
+cd /
+cd home
 mkdir pmmp
 cd pmmp
 curl -sL https://get.pmmp.io | bash -s - -r 
