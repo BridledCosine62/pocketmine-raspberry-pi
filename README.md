@@ -9,6 +9,8 @@ Pocketmine installer for raspberry pi
 # How to install
 - clone the repository
 ```git clone https://github.com/BridledCosine62/pocketmine-raspberry-pi.git```
+- cd into the directory
+```cd pocketmine-raspberry-pi```
 - make the script executable
 ```chmod +x install-pmmp.sh```
 - now run this command to install pocketmine
